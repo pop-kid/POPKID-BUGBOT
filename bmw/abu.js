@@ -9,7 +9,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "ibrahim", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "taracha", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -35,20 +35,20 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*Yes my G what's up* 😎
+*Yes my GEE what's up* 😎
 
 
 *Any way just follow the following channels*
 
 
 *Whatsapp channel*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
 
 *Youtube*
-> https://www.youtube.com/@ibrahimaitech
+> https://www.youtube.com/@pop_kid254
 
 *For more info*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://github.com/Popkidtech/POPKID-MD
   `;
     
 let menuMsg = `
