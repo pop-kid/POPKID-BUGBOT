@@ -34,7 +34,7 @@ async (dest, zk, commandeOptions) => {
 
 
 
-await repondre(`*_Pong▱▱▱▰▰▰▰_:*_${bmwspeed} MS_* `);
+await repondre(`*_Pong▱▱▱▰▰▰▰_:*_${popkidspeed} MS_* `);
 
 }
 );
