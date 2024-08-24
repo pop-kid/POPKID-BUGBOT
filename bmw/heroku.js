@@ -12,7 +12,7 @@ zokou(
 
         nomCom : "setvar",
 
-        categorie : "Bmw-var"
+        categorie : "Popkid-var"
 
     }, async (dest , zk , commandeOptions) =>{
 
@@ -68,7 +68,7 @@ zokou(
 
         nomCom : "getallvar",
 
-        categorie : "Bmw-var"
+        categorie : "Popkid-var"
 
     }, async (dest , zk , commandeOptions) =>{
 
@@ -98,11 +98,11 @@ zokou(
 
             let h = await heroku.get(baseURI+'/config-vars')
 
-let str = '*Bmw md manual settings*\n\n'
+let str = '*Popkid md manual settings*\n\n'
 
 for (vr in h) {
 
-str+= '🚘 *'+vr+'* '+'= '+h[vr]+'\n'
+str+= '😇 *'+vr+'* '+'= '+h[vr]+'\n'
 
 }
 
@@ -128,7 +128,7 @@ str+= '🚘 *'+vr+'* '+'= '+h[vr]+'\n'
 
             nomCom : "getvar",
 
-            categorie : "Bmw-var"
+            categorie : "Popkid-var"
 
         }, async (dest , zk , commandeOptions) =>{
 
