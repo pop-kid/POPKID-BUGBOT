@@ -52,7 +52,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-> ©Ibrahim Adams 
+> ©popkid tech 
 `;
 
    var lien = mybotpic();
