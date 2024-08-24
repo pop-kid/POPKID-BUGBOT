@@ -15242,10 +15242,10 @@
 
 
 {
-  "name":"BMW-MD",
-  "description":"Best whatsapp bot developed by Ibrahim adams",
+  "name":"POPKID-MD",
+  "description":"Best whatsapp bot developed by Ian Taracha",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/0c225f7da5616cdcbec80.jpg",
+  "logo":"https://telegra.ph/file/b489a94ade356ade61fa4.jpg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -15290,14 +15290,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-MD",
+      "value":"POPKID-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/0c225f7da5616cdcbec80.jpg",
+      "value":"https://telegra.ph/file/b489a94ade356ade61fa4.jpg",
       "required":false
        
      },
@@ -15329,14 +15329,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "𝐏𝐨𝐩𝐤𝐢𝐝"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254739937062,254710772666"
+    "value": "254111385747,254732297194"
   },
     "WARN_COUNT":
   {
