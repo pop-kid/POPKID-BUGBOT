@@ -1,6 +1,6 @@
 
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
+  <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
     
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/be30d00eacdea749623d4.jpg" alt="01" border="0" /></a>                     
     <h1 align="center">POPKID BUGBOT BEST WABOT</h1>
