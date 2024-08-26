@@ -25716,9 +25716,9 @@ reaction: "🎸"
 
       const songDetails = `*Hello🖐️ Tap on the link below and download anything you want*
 
-> https://t.me/Ibraah_adams_bot
+> https://t.me/popkidsong_bot
 
-> Made by : ©Ibrahim Adams`;
+> Made by : ©popkid`;
 
       await zk.sendMessage(origineMessage, { text: songDetails }, { quoted: ms });
 
@@ -25778,9 +25778,9 @@ reaction: "🎧"
 
       const songDetails = `*Hello🖐️ Tap on the link below and download anything you want*
 
-> https://t.me/Ibraah_adams_bot
+> https://t.me/popkidsong_bit
 
-> Made by : ©Ibrahim Adams`;
+> Made by : ©popkid`;
 
       await zk.sendMessage(origineMessage, { text: songDetails }, { quoted: ms });
 
@@ -25841,9 +25841,9 @@ reaction: "🎬"
 
       const songDetails = `*Hello🖐️ Tap on the link below and download anything you want*
 
-> https://t.me/Ibraah_adams_bot
+> https://t.me/popkidsong_bot
 
-> Made by : ©Ibrahim Adams`;
+> Made by : ©Popkid`;
 
       await zk.sendMessage(origineMessage, { text: songDetails }, { quoted: ms });
 
@@ -25903,9 +25903,9 @@ reaction: "🎤"
 
       const songDetails = `*Hello🖐️ Tap on the link below and download anything you want*
 
-> https://t.me/Ibraah_adams_bot
+> https://t.me/popkidsong_bot
 
-> Made by : ©Ibrahim Adams`;
+> Made by : ©popkid`;
 
       await zk.sendMessage(origineMessage, { text: songDetails }, { quoted: ms });
 
@@ -25965,9 +25965,9 @@ reaction: "🎤"
 
       const songDetails = `*Hello🖐️ Tap on the link below and download anything you want*
 
-> https://t.me/Ibraah_adams_bot
+> https://t.me/popkidsong_bot
 
-> Made by : ©Ibrahim Adams`;
+> Made by : ©popkid`;
 
       await zk.sendMessage(origineMessage, { text: songDetails }, { quoted: ms });
 
@@ -26029,14 +26029,14 @@ zokou({
           
        let infoMess = {
           image: {url : videos[0]. thumbnail},
-         caption : `\n𝑩𝑴𝑾 𝑴𝑫 𝑺𝑶𝑵𝑮 𝑷𝑳𝑨𝒀𝑬𝑹\n\n*song name :* _${videos[0].title}_
+         caption : `\POPKID SONG PLAYER\n\n*song name :* _${videos[0].title}_
 
 *Time :* _${videos[0].timestamp}_
 
 *Url :* _${videos[0].url}_
 
 
-©𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔`
+©POPKID`
        }
 
       
@@ -26102,10 +26102,10 @@ zokou({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `𝑩𝑴𝑾 𝑴𝑫 \n\n*Video name :* _${Element.title}_
+        caption: `POPKID MD SONGS \n\n*Video name :* _${Element.title}_
 *Time :* _${Element.timestamp}_
 *Url :* _${Element.url}_
-\n\n\n ©𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔`
+\n\n\n ©POPKID`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
@@ -26165,10 +26165,10 @@ zokou({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `𝑩𝑴𝑾 𝑴𝑫 \n\n*Video name :* _${Element.title}_
+        caption: `POPKID MD \n\n*Video name :* _${Element.title}_
 *Time :* _${Element.timestamp}_
 *Url :* _${Element.url}_
-\n\n\n ©𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔`
+\n\n\n ©POPKID`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
@@ -26227,10 +26227,10 @@ zokou({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `𝑩𝑴𝑾 𝑴𝑫 \n\n*Video name :* _${Element.title}_
+        caption: `POPKID MD \n\n*Video name :* _${Element.title}_
 *Time :* _${Element.timestamp}_
 *Url :* _${Element.url}_
-\n\n\n ©𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔`
+\n\n\n ©POPKID`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
@@ -26289,10 +26289,10 @@ zokou({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `𝑩𝑴𝑾 𝑴𝑫 \n\n*Video name :* _${Element.title}_
+        caption: `POPKID MD \n\n*Video name :* _${Element.title}_
 *Time :* _${Element.timestamp}_
 *Url :* _${Element.url}_
-\n\n\n ©𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔`
+\n\n\n ©POPKID`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
@@ -26351,10 +26351,10 @@ zokou({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `𝑩𝑴𝑾 𝑴𝑫 \n\n*Video name :* _${Element.title}_
+        caption: `POPKID MD \n\n*Video name :* _${Element.title}_
 *Time :* _${Element.timestamp}_
 *Url :* _${Element.url}_
-\n\n\n ©𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔`
+\n\n\n ©POPKID`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
